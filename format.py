@@ -1,9 +1,9 @@
-# Aidan O'Connor - G00364756 - 06/02/2018 
-# Week 6 Exercise 5 - Format output of the iris.csv file
+# Aidan O'Connor - G00364756 - 10/03/2018 
+# Exercise 5, Topic 5: format.py - Format output of the iris.csv file
 # Link to csv file = https://archive.ics.uci.edu/ml/datasets/iris
 # Code adapted from Dr. Ian McGloughlin's lectures during Week 6 of the Programming and Scripting module.
 
-# Exercise 5:- 
+# Instruction for Exercise 5:
 # Please complete the following exercise this week. 
 # Write a Python script that reads the Iris data set in 
 # and prints the four numerical values on each row in a nice format. 

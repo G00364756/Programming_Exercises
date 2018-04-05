@@ -1,6 +1,9 @@
 # Aidan O'Connor - G00364756 - 12/03/2018 
-# Week 7_Exercise 6: Factorial
+# Week 7_Exercise 6,Topic 6: factorial.py
+# Code adapted from lectures given by Dr. Ian McGLouglin through the Programming module in the Data Analytics course
 
+
+# Instructions for Exercise 6:
 # Please complete the following exercise this week. 
 # Write a Python script containing a function called factorial() that,
 # takes a single input/argument which is a positive integer and,

@@ -1,5 +1,6 @@
-# # Aidan O'Connor - G00364756 - 03/02/2018 
-# Week 2_Exercise 2: fibname.py
+# Aidan O'Connor - G00364756 - 03/02/2018 
+# Week 1_Exercise 1, Topic 1: fibname.py (fib.py code incorporated in fibname.py code)
+# Week 2_Exercise 2, Topic 2: fibname.py
 # 
 #  Ian McLoughlin
 # A program that displays Fibonacci numbers using people's names.
@@ -16,7 +17,7 @@
 #  to the discussions forum.
 
 
-def fib(n):
+def fib(n): # This is the fib.py code from week 1 which feeds into fibname.py code
   """This function returns the nth Fibonacci number."""
   i = 0 # set inital value of i to 0
   j = 1 # set inital value of j to 1
